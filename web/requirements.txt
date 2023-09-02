@@ -1,0 +1,7 @@
+django>=3.2.0, <4.0
+gunicorn
+requests
+django-dotenv
+psycopg-binary
+django-storages
+boto3
